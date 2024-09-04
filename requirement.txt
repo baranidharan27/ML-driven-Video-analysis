@@ -1,0 +1,13 @@
+#List of required python package
+opencv-python-headless
+dlib
+flask
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+transformers
+opencv-python
